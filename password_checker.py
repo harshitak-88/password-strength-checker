@@ -31,7 +31,7 @@ else:
 hashed_password =hashlib.sha256(password.encode()).hexdigest()
 print("Hashed Passowrd:", hashed_password)
 
-## Demo
-![Project Screenshot](screenshot.png)
+
+
 
 
